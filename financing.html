@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apply for Financing — Integrity Used Auto Sales</title>
+<meta name="description" content="Apply for financing online. Quick response, all credit profiles considered, up to $0 down.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="nav container">
+    <a href="index.html" class="logo">Integrity<span>.</span>Auto</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="inventory.html">Inventory</a></li>
+      <li><a href="financing.html">Financing</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <a href="financing.html" class="btn btn-primary nav-cta">Apply for Financing</a>
+  </nav>
+</header>
+
+<section class="hero" style="padding:44px 0 40px;">
+  <div class="container" style="grid-template-columns:1fr; display:block;">
+    <span class="hero-badge">● Quick response</span>
+    <h1 style="font-size:clamp(1.8rem,4vw,2.6rem);">Apply for Financing</h1>
+    <p class="lead">Simple and secure form. All credit profiles are considered — including no money down.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="form-card">
+      <form id="financing-form" name="financing" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="financing">
+        <p style="display:none;"><label>Don't fill this out: <input name="bot-field"></label></p>
+
+        <div class="form-grid-2">
+          <div class="form-row">
+            <label for="name">Full name</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-row">
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone" name="phone" required>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+
+        <div class="form-grid-2">
+          <div class="form-row">
+            <label for="vehicle-field">Vehicle you're interested in</label>
+            <input type="text" id="vehicle-field" name="vehicle" placeholder="E.g. 2015 Toyota Corolla">
+          </div>
+          <div class="form-row">
+            <label for="down-payment">Down payment available</label>
+            <select id="down-payment" name="down_payment">
+              <option value="$0">$0 (no down payment)</option>
+              <option value="$500-$1,000">$500 – $1,000</option>
+              <option value="$1,000-$2,000">$1,000 – $2,000</option>
+              <option value="$2,000+">$2,000 or more</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <label for="credit">How would you describe your credit?</label>
+          <select id="credit" name="credit_profile">
+            <option value="Good">Good</option>
+            <option value="Fair">Fair</option>
+            <option value="Poor / rebuilding">Poor / rebuilding</option>
+            <option value="Not sure">Not sure</option>
+          </select>
+        </div>
+
+        <div class="form-row">
+          <label for="message">Additional info (optional)</label>
+          <textarea id="message" name="message" placeholder="Target monthly budget, desired purchase date, etc."></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-block">Submit Application</button>
+
+        <div class="form-note">
+          🔒 Your information is transmitted securely and used only to process your financing request.
+        </div>
+      </form>
+
+      <div class="form-success" id="financing-success">
+        <div class="icon-check">✓</div>
+        <h3>Application received!</h3>
+        <p style="color:var(--slate); margin-top:8px;">A member of our team will reach out very soon by phone or email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">Integrity Auto Sales</div>
+        <p>Bringing honesty back to used car buying, one customer at a time.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigate</h5>
+        <ul>
+          <li><a href="inventory.html">Inventory</a></li>
+          <li><a href="financing.html">Financing</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact & Delivery</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Contact</h5>
+        <ul>
+          <li><a href="mailto:info@integrityusedautosales.com">info@integrityusedautosales.com</a></li>
+          <li><a href="https://www.tiktok.com/@integrityusedautosales" target="_blank" rel="noopener">@integrityusedautosales</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Integrity Used Auto Sales. All rights reserved.</span>
+      <span>Home delivery available.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="mobile-cta-bar">
+  <a href="inventory.html" class="btn btn-secondary">Inventory</a>
+  <a href="tel:" class="btn btn-primary">Call Us</a>
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>

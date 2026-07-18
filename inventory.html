@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Inventory — Integrity Used Auto Sales</title>
+<meta name="description" content="Browse our inventory of reliable, affordable used vehicles. Filter by make, price, and more.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <nav class="nav container">
+    <a href="index.html" class="logo">Integrity<span>.</span>Auto</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="inventory.html">Inventory</a></li>
+      <li><a href="financing.html">Financing</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <a href="financing.html" class="btn btn-primary nav-cta">Apply for Financing</a>
+  </nav>
+</header>
+
+<section class="section" style="padding-bottom:0;">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Inventory</span>
+      <h2>Our Cars</h2>
+      <p>Every vehicle is verified before it's listed. Real mileage and pricing — no hidden fees.</p>
+    </div>
+
+    <div class="filters">
+      <select id="filter-make">
+        <option value="">All makes</option>
+      </select>
+      <select id="filter-price">
+        <option value="">All prices</option>
+        <option value="7000">Up to $7,000</option>
+        <option value="9000">Up to $9,000</option>
+        <option value="10000">Up to $10,000</option>
+      </select>
+      <input type="text" id="filter-search" placeholder="Search a model...">
+    </div>
+
+    <p class="results-count" id="results-count">Loading...</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="container">
+    <div class="car-grid" id="car-grid">
+      <p class="empty-state">Loading inventory...</p>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container" style="text-align:center;">
+    <h2 style="margin-bottom:10px;">Don't see what you're looking for?</h2>
+    <p style="color:var(--slate); margin-bottom:22px;">New vehicles arrive every week. Tell us what you need.</p>
+    <a href="contact.html" class="btn btn-primary">Contact Us</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">Integrity Auto Sales</div>
+        <p>Bringing honesty back to used car buying, one customer at a time.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigate</h5>
+        <ul>
+          <li><a href="inventory.html">Inventory</a></li>
+          <li><a href="financing.html">Financing</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact & Delivery</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Contact</h5>
+        <ul>
+          <li><a href="mailto:info@integrityusedautosales.com">info@integrityusedautosales.com</a></li>
+          <li><a href="https://www.tiktok.com/@integrityusedautosales" target="_blank" rel="noopener">@integrityusedautosales</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Integrity Used Auto Sales. All rights reserved.</span>
+      <span>Home delivery available.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="mobile-cta-bar">
+  <a href="contact.html" class="btn btn-secondary">Contact</a>
+  <a href="financing.html" class="btn btn-primary">Financing</a>
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>

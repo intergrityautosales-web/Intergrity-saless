@@ -1,0 +1,60 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+locale: "en"
+
+collections:
+  - name: "inventory"
+    label: "Vehicle Inventory"
+    label_singular: "inventory file"
+    files:
+      - file: "data/inventory.json"
+        label: "Vehicles"
+        name: "vehicles"
+        fields:
+          - label: "Vehicle list"
+            name: "vehicles"
+            widget: "list"
+            label_singular: "vehicle"
+            summary: "{{make}} {{model}} {{trim}} ({{year}}) — ${{price}}"
+            fields:
+              - { label: "ID (leave as-is or increment for new listings)", name: "id", widget: "string" }
+              - { label: "Make", name: "make", widget: "string", hint: "e.g. Land Rover" }
+              - { label: "Model", name: "model", widget: "string", hint: "e.g. Range Rover Evoque" }
+              - { label: "Trim / Package (optional)", name: "trim", widget: "string", required: false, hint: "e.g. HSE, LT, Sport" }
+              - { label: "Year", name: "year", widget: "number", value_type: "int" }
+              - { label: "Price ($)", name: "price", widget: "number", value_type: "int" }
+              - { label: "Down payment ($)", name: "downPayment", widget: "number", value_type: "int", default: 500, hint: "The minimum down payment for this specific vehicle" }
+              - { label: "Mileage", name: "mileage", widget: "number", value_type: "int" }
+              - label: "Fuel type"
+                name: "fuelType"
+                widget: "select"
+                options: ["Gasoline", "Diesel", "Hybrid", "Electric"]
+                default: "Gasoline"
+              - label: "Transmission"
+                name: "transmission"
+                widget: "select"
+                options: ["Automatic", "Manual"]
+                default: "Automatic"
+              - label: "Drivetrain"
+                name: "drivetrain"
+                widget: "select"
+                options: ["FWD", "RWD", "AWD", "4WD"]
+                default: "FWD"
+              - { label: "Vehicle photo", name: "image", widget: "image" }
+              - label: "Features / Highlights"
+                name: "features"
+                widget: "list"
+                required: false
+                hint: "Add one line per feature — e.g. 'Panoramic Roof', 'Heated Seats', 'Backup Camera'. These show as tags on the listing."
+                field: { label: "Feature", name: "feature", widget: "string" }
+              - { label: "Description (short summary, 2-4 sentences)", name: "description", widget: "text", hint: "Don't repeat the features listed above — just the overall pitch, e.g. condition, ideal use, driving feel." }
+              - label: "Status"
+                name: "status"
+                widget: "select"
+                options: ["available", "sold"]
+                default: "available"
