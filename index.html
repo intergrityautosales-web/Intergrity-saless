@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 
@@ -163,5 +164,27 @@
 </div>
 
 <script src="js/main.js"></script>
+<script>
+  function openIdentityFromHash() {
+    if (window.location.hash && (
+      window.location.hash.includes("confirmation_token") ||
+      window.location.hash.includes("invite_token") ||
+      window.location.hash.includes("recovery_token")
+    )) {
+      window.netlifyIdentity.open();
+    }
+  }
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      openIdentityFromHash();
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+    window.netlifyIdentity.init();
+  }
+</script>
 </body>
 </html>
