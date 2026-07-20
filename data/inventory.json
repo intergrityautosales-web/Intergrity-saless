@@ -70,6 +70,31 @@
         "Long Range Battery – smooth, quiet, zero emissions ✅ Fast Charging (DC) – road-trip ready in minutes ✅ Spacious 3-Row Interior – perfect for family, friends, or adventure ✅ Modern Tech – Digital Cockpit, Huge Touchscreen, Apple CarPlay / Android Auto ✅ Safety First – Adaptive Cruise, Lane Assist, Park Assist, 360 Camera ✅ New Tires, Clean Title in Hand, Bill of Sale Ready"
       ],
       "drivetrain": "FWD"
+    },
+    {
+      "trim": "Sport ",
+      "transmission": "Automatic",
+      "downPayment": 1000,
+      "price": 9000,
+      "model": "Atlas Peak Edition ",
+      "mileage": 50,
+      "make": "Volkswagen ",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "image": "/images/uploads/img_20260721_002809_317.jpg",
+      "description": "\n2025 Volkswagen Atlas Peak Edition – 3 Row SUV – AWD – Pure Gray\n\nBrand new 2025 VW Atlas Peak Edition with panoramic roof, Apple CarPlay, Android Auto, premium sound, parking assistance with backup camera, and ambient lighting.4\n\n💳 Financing & Leasing available ‼️\n\n",
+      "year": 2025,
+      "features": [
+        "Features include:  • 2.0L Turbo + 8-speed Automatic 4MOTION AWD  • 3 rows of seats (7 passengers)  • Ventilated front seats, heated rear seats, heated steering wheel  • Pure Gray exterior with Black leatherette interior & orange stitching  • Off-road ready with all-season tires and driving mode selection"
+      ],
+      "drivetrain": "AWD"
+    },
+    {
+      "downPayment": 500,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "status": "available"
     }
   ]
 }
