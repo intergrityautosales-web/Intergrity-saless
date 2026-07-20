@@ -52,6 +52,24 @@
       "description": "2013\nSelling my VW Passat with the most reliable 2.5L engine and smooth-shifting transmission. Mostly highway miles.\nThis car is perfect for work, family, or business — dependable and ready to go anywhere.\n\nClean title in hand + bill of sale.\nPriced to sell — serious buyers only. No lowball offers.\n\n",
       "year": 2013,
       "drivetrain": "FWD"
+    },
+    {
+      "trim": "7 passengers,3 rows ,91kwh battery, RWP 282hp",
+      "transmission": "Automatic",
+      "downPayment": 800,
+      "price": 8000,
+      "model": "ID BUZZ",
+      "mileage": 260,
+      "make": "Volkswagen ",
+      "fuelType": "Electric",
+      "status": "available",
+      "image": "/images/uploads/img_20260721_001148_779.jpg",
+      "description": "2024 Volkswagen ID. Buzz, fully electric, in beautiful condition.\nPerfect for city driving, school runs, road trips, or eco-friendly business use. Easy to park, comfortable seating for everyone, and futuristic design that turns heads everywhere.\n",
+      "year": 2024,
+      "features": [
+        "Long Range Battery – smooth, quiet, zero emissions ✅ Fast Charging (DC) – road-trip ready in minutes ✅ Spacious 3-Row Interior – perfect for family, friends, or adventure ✅ Modern Tech – Digital Cockpit, Huge Touchscreen, Apple CarPlay / Android Auto ✅ Safety First – Adaptive Cruise, Lane Assist, Park Assist, 360 Camera ✅ New Tires, Clean Title in Hand, Bill of Sale Ready"
+      ],
+      "drivetrain": "FWD"
     }
   ]
 }
