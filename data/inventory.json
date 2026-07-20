@@ -19,23 +19,7 @@
       "drivetrain": "FWD"
     },
     {
-      "transmission": "Automatic",
-      "downPayment": 600,
-      "price": 3500,
-      "model": "Range Rover Evoque Coupe ",
-      "mileage": 132,
-      "make": "Range Rover ",
-      "fuelType": "Gasoline",
-      "status": "available",
-      "image": "/images/uploads/img_20260720_231632_081.jpg",
-      "description": "\nOne of the only Evoque Coupes you’ll find– super rare, super clean, and fully loaded.\nThis is not your typical SUV – it’s a luxury coupe that gets attention everywhere.\n💎 Garage-kept, mint condition, drives like new.",
-      "year": 2013,
-      "features": [
-        " ✅ One Owner – Clean Title & Bill of Sale ✅ Panoramic roof, black leather, premium Meridian sound ✅ Navigation, backup camera, parking sensors ✅ Heated seats, keyless entry, push start ✅ Perfect Silver on Black combo – looks incredible"
-      ],
-      "drivetrain": "FWD"
-    },
-    {
+      "trim": "LT",
       "transmission": "Automatic",
       "downPayment": 500,
       "price": 3000,
@@ -44,6 +28,8 @@
       "make": " Infiniti",
       "fuelType": "Gasoline",
       "status": "available",
+      "id": "2012 Infiniti FX35 AWD",
+      "image": "/images/uploads/img_20260720_233008_329.jpg",
       "description": "\n2012 Infiniti FX35 AWD – Fully Loaded\nRuns and drives like new. Fully serviced and needs absolutely nothing. Fast, reliable, comfortable, and perfect for a family or daily driving.",
       "year": 2012,
       "features": [
