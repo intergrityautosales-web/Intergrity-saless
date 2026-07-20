@@ -1,3 +1,22 @@
 {
-  "vehicles": []
+  "vehicles": [
+    {
+      "transmission": "Manual",
+      "downPayment": 800,
+      "price": 4000,
+      "model": "Rover Range Rover Evoque HSE",
+      "mileage": 138,
+      "make": "Land Rover",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "id": "2016 Land Rover Range Rover Evoque HSE",
+      "image": "/images/uploads/img_20260716_160915_876.jpg",
+      "description": "\n2016 Land Rover Range Rover Evoque HSE\n\nLuxury, safe, and comfortable SUV. Perfect for a family, daily driving, Costco trips, or weekend getaways. Runs and drives beautifully.\n\n",
+      "year": 2016,
+      "features": [
+        "Like new. Fully serviced — nothing needs to be done.  ✅ Fully Loaded HSE Package ✅ AWD (All-Wheel Drive) ✅ Premium White Leather Interior ✅ Panoramic Roof ✅ Brand-new tires ✅ Backup Camera ✅ Heated Seats ✅ Folding Rear Seats"
+      ],
+      "drivetrain": "FWD"
+    }
+  ]
 }
