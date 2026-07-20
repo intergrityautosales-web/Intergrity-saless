@@ -34,6 +34,22 @@
         " ✅ One Owner – Clean Title & Bill of Sale ✅ Panoramic roof, black leather, premium Meridian sound ✅ Navigation, backup camera, parking sensors ✅ Heated seats, keyless entry, push start ✅ Perfect Silver on Black combo – looks incredible"
       ],
       "drivetrain": "FWD"
+    },
+    {
+      "transmission": "Automatic",
+      "downPayment": 500,
+      "price": 3000,
+      "model": " Infiniti FX35 AWD",
+      "mileage": 135,
+      "make": " Infiniti",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "description": "\n2012 Infiniti FX35 AWD – Fully Loaded\nRuns and drives like new. Fully serviced and needs absolutely nothing. Fast, reliable, comfortable, and perfect for a family or daily driving.",
+      "year": 2012,
+      "features": [
+        "Legendary 3.5L V6 • No Accidents • Clean Title • White / Black Leather • BOSE Sound • Bluetooth Music • 360° Camera • New Michelin Tires • Dash Cam • Xenon Headlights • Sunroof • Smart Key • AWD • Fold-Flat Rear Seats."
+      ],
+      "drivetrain": "AWD"
     }
   ]
 }
