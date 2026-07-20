@@ -17,6 +17,23 @@
         "Like new. Fully serviced — nothing needs to be done.  ✅ Fully Loaded HSE Package ✅ AWD (All-Wheel Drive) ✅ Premium White Leather Interior ✅ Panoramic Roof ✅ Brand-new tires ✅ Backup Camera ✅ Heated Seats ✅ Folding Rear Seats"
       ],
       "drivetrain": "FWD"
+    },
+    {
+      "transmission": "Automatic",
+      "downPayment": 600,
+      "price": 3500,
+      "model": "Range Rover Evoque Coupe ",
+      "mileage": 132,
+      "make": "Range Rover ",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "image": "/images/uploads/img_20260720_231632_081.jpg",
+      "description": "\nOne of the only Evoque Coupes you’ll find– super rare, super clean, and fully loaded.\nThis is not your typical SUV – it’s a luxury coupe that gets attention everywhere.\n💎 Garage-kept, mint condition, drives like new.",
+      "year": 2013,
+      "features": [
+        " ✅ One Owner – Clean Title & Bill of Sale ✅ Panoramic roof, black leather, premium Meridian sound ✅ Navigation, backup camera, parking sensors ✅ Heated seats, keyless entry, push start ✅ Perfect Silver on Black combo – looks incredible"
+      ],
+      "drivetrain": "FWD"
     }
   ]
 }
