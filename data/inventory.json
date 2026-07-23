@@ -37,6 +37,25 @@
         "Features:* ✅ *One Owner* - Clean Title & Bill of Sale   ✅ *Panoramic Roof* + Black Leather Interior   ✅ *Premium Meridian Sound System*   ✅ *Navigation, Backup Camera, Parking Sensors*   ✅ *Heated Seats, Keyless Entry, Push Start*   ✅ *Perfect Silver on Black Combo* - looks incredible"
       ],
       "drivetrain": "AWD"
+    },
+    {
+      "trim": "SE",
+      "transmission": "Automatic",
+      "downPayment": 500,
+      "price": 1500,
+      "model": "Volkswagen Passat  ",
+      "mileage": 142000,
+      "make": "Volkswagen",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "id": "VW-PASSAT-2013-2.5L-01",
+      "image": "/images/uploads/img_20260723_231600_894.jpg",
+      "description": "Clean Title in Hand + Bill of Sale*  \nThis car is dependable and ready to go anywhere.  \n\nPriced to sell. Serious buyers only. No lowball offers.\n\n_Price: $1,500_  \n_Down Payment: $350_  \nMessage me today to test drive.\n",
+      "year": 2013,
+      "features": [
+        "Features:* ✅ *Navigation System*   ✅ *Bluetooth* - Music + Hands-free calls   ✅ *Sunroof*   ✅ *Heated Seats*   ✅ *Great Acceleration & Fuel Efficiency*   ✅ *Tinted Windows*"
+      ],
+      "drivetrain": "FWD"
     }
   ]
 }
