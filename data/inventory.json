@@ -1,98 +1,95 @@
 {
   "vehicles": [
     {
-      "trim": "HSE",
-      "transmission": "Automatic",
-      "downPayment": 500,
-      "price": 3500,
-      "model": " Land Rover Range Rover Evoque",
-      "mileage": 135,
+      "transmission": "Manual",
+      "downPayment": 800,
+      "price": 4000,
+      "model": "Range Rover Evoque HSE",
+      "mileage": 138,
       "make": "Land Rover",
       "fuelType": "Gasoline",
       "status": "available",
-      "id": "EVOQUE2016-002",
-      "image": "/images/uploads/img_20260723_224928_739.jpg",
-      "description": "Why this Evoque?\nLuxury, safety, and comfort in one. Perfect for families, daily commuting, Costco runs, or weekend getaways. Runs and drives beautifully. Fully serviced.",
+      "id": "2016-land-rover-range-rover-evoque-hse",
+      "image": "/images/uploads/img_20260716_160915_876.jpg",
+      "description": "2016 Land Rover Range Rover Evoque HSE\n\nLuxury, safe, and comfortable SUV. Perfect for a family, daily driving, Costco trips, or weekend getaways. Runs and drives beautifully.",
       "year": 2016,
       "features": [
-        "Key Features: ✅ HSE Fully Loaded Package ✅ AWD - All Wheel Drive- snow, rain, dirt = no problem ✅ Premium White Leather Interior - clean & classy ✅ Panoramic Sunroof ✅ Brand New Tires ✅ Backup Camera ✅ Heated Seats ✅ *Folding Rear Seats* - extra cargo space"
+        "Like new. Fully serviced — nothing needs to be done. Fully Loaded HSE Package. AWD. Premium White Leather Interior. Panoramic Roof. Brand-new tires. Backup Camera. Heated Seats. Folding Rear Seats."
       ],
       "drivetrain": "FWD"
     },
     {
-      "trim": "HSE",
+      "trim": "LT",
       "transmission": "Automatic",
-      "downPayment": 600,
-      "price": 4000,
-      "model": " Range Rover Evoque Coupe  ",
+      "downPayment": 500,
+      "price": 3000,
+      "model": "Infiniti FX35 AWD",
       "mileage": 135,
-      "make": "Land Rover   ",
+      "make": "Infiniti",
       "fuelType": "Gasoline",
       "status": "available",
-      "id": "RREV2013-COUPE-SILVER-01",
-      "image": "/images/uploads/img_20260723_230542_762.jpg",
-      "description": "This is NOT your typical SUV. It’s a luxury coupe that gets attention everywhere.  \n💎 Mint condition, drives like new.",
-      "year": 2013,
+      "id": "2012-infiniti-fx35-awd",
+      "image": "/images/uploads/img_20260720_233008_329.jpg",
+      "description": "2012 Infiniti FX35 AWD – Fully Loaded. Runs and drives like new. Fully serviced and needs absolutely nothing. Fast, reliable, comfortable, and perfect for a family or daily driving.",
+      "year": 2012,
       "features": [
-        "Features:* ✅ *One Owner* - Clean Title & Bill of Sale   ✅ *Panoramic Roof* + Black Leather Interior   ✅ *Premium Meridian Sound System*   ✅ *Navigation, Backup Camera, Parking Sensors*   ✅ *Heated Seats, Keyless Entry, Push Start*   ✅ *Perfect Silver on Black Combo* - looks incredible"
+        "Legendary 3.5L V6, No Accidents, Clean Title, White/Black Leather, BOSE Sound, Bluetooth Music, 360° Camera, New Michelin Tires, Dash Cam, Xenon Headlights, Sunroof, Smart Key, AWD, Fold-Flat Rear Seats."
       ],
       "drivetrain": "AWD"
     },
     {
-      "trim": "SE",
+      "trim": "17 wheels, sunroof, V-Tex leatherette seats, 6.3 touchscreen dual zone climate",
       "transmission": "Automatic",
-      "downPayment": 500,
+      "downPayment": 350,
       "price": 1500,
-      "model": "Volkswagen Passat  ",
-      "mileage": 142000,
+      "model": "Passat",
+      "mileage": 138,
       "make": "Volkswagen",
       "fuelType": "Gasoline",
       "status": "available",
-      "id": "VW-PASSAT-2013-2.5L-01",
-      "image": "/images/uploads/img_20260723_231600_894.jpg",
-      "description": "Clean Title in Hand + Bill of Sale*  \nThis car is dependable and ready to go anywhere.  \n\nPriced to sell. Serious buyers only. No lowball offers.\n\n_Price: $1,500_  \n_Down Payment: $350_  \nMessage me today to test drive.\n",
+      "id": "vw-passat-2013-2-5-fwd-1500",
+      "image": "/images/uploads/img_20260720_235205_352.jpg",
+      "description": "2013 VW Passat with the most reliable 2.5L engine and smooth-shifting transmission. Mostly highway miles. Perfect for work, family, or business — dependable and ready to go anywhere. Clean title in hand + bill of sale.",
       "year": 2013,
-      "features": [
-        "Features:* ✅ *Navigation System*   ✅ *Bluetooth* - Music + Hands-free calls   ✅ *Sunroof*   ✅ *Heated Seats*   ✅ *Great Acceleration & Fuel Efficiency*   ✅ *Tinted Windows*"
-      ],
       "drivetrain": "FWD"
     },
     {
-      "trim": "Giga",
+      "trim": "7 passengers, 3 rows, 91kwh battery, RWD 282hp",
       "transmission": "Automatic",
-      "downPayment": 500,
-      "price": 3000,
-      "model": "i3",
-      "mileage": 123,
-      "make": "BMW",
-      "fuelType": "Gasoline",
-      "status": "available",
-      "id": "BMW-I3-2015-ELECTRIC-01",
-      "image": "/images/uploads/img_20260723_234650_594.jpg",
-      "description": "Selling my 2015 BMW i3. Eco-friendly, easy to park, and perfect for daily driving.",
-      "year": 2015,
-      "features": [
-        "Eco-Friendly Electric* - Zero emissions ✅ *Fast Charging + Easy Parking Anywhere* ✅ *New Tires* ✅ *Big Touchscreen + Backup Camera* ✅ *Perfect for School Runs, Groceries & Daily Driving*"
-      ],
-      "drivetrain": "FWD"
-    },
-    {
-      "trim": "Peak Edition  ",
-      "transmission": "Automatic",
-      "downPayment": 500,
+      "downPayment": 800,
       "price": 8000,
-      "model": "Atlas",
-      "mileage": 12450,
-      "make": "Volkswagen  ",
+      "model": "ID Buzz",
+      "mileage": 260,
+      "make": "Volkswagen",
+      "fuelType": "Electric",
+      "status": "available",
+      "id": "2024-vw-id-buzz",
+      "image": "/images/uploads/img_20260721_001148_779.jpg",
+      "description": "2024 Volkswagen ID. Buzz, fully electric, in beautiful condition. Perfect for city driving, school runs, road trips, or eco-friendly business use. Easy to park, comfortable seating for everyone, and futuristic design that turns heads everywhere.",
+      "year": 2024,
+      "features": [
+        "Long Range Battery, Fast Charging (DC), Spacious 3-Row Interior, Digital Cockpit, Huge Touchscreen, Apple CarPlay / Android Auto, Adaptive Cruise, Lane Assist, Park Assist, 360 Camera, New Tires, Clean Title in Hand."
+      ],
+      "drivetrain": "FWD"
+    },
+    {
+      "trim": "Sport",
+      "transmission": "Automatic",
+      "downPayment": 1000,
+      "price": 9000,
+      "model": "Atlas Peak Edition",
+      "mileage": 50,
+      "make": "Volkswagen",
       "fuelType": "Gasoline",
       "status": "available",
-      "id": "VW-ATLAS-2025-PEAK-AWD-01",
-      "description": "The *2025 VW Atlas Peak Edition* is Volkswagen’s boldest 3-row SUV. Built for families who want space, for adventurers who want capability, and for drivers who want premium tech without the luxury price tag.\n\nFinished in *Pure Gray* with *Black leatherette interior and signature orange stitching*, this Atlas stands out on the road and off it. The *Peak Edition* adds rugged styling, all-season tires, and drive modes so you’re ready for city streets, highway trips, or weekend trails.\n\nInside you get *room for 7 passengers* across 3 rows. Everyone rides in comfort with *ventilated front seats, heated rear seats, and a heated steering wheel*. The *panoramic sunroof* and *ambient lighting* make night drives feel premium.\n\nTech is all there: *Wireless Apple CarPlay + Android Auto, Premium Sound System, Digital Cockpit, and Parking Assistance with Backup Camera*. Safety is covered too with VW’s driver assist features.\n\nUnder the hood: a *2.0L Turbo engine paired with an 8-Speed Automatic and 4MOTION AWD*. That means confident power, smooth shifts, and grip in rain, snow, or dirt. It’s the perfect balance of efficiency for daily driving and toughness for adventure.\n\n*Why this Atlas?*\n1.  *3-Row Space* - Car seats, sports gear, groceries... it fits it all\n2.  *AWD + Off-Road Modes* - Go anywhere, any season  \n3.  *Premium Comfort* - Panoramic roof, heated/ventilated seats, ambient lights\n4.  *Modern Tech* - Big screen, phone integration, premium audio",
+      "id": "2025-vw-atlas-peak-edition",
+      "image": "/images/uploads/img_20260721_002809_317.jpg",
+      "description": "2025 Volkswagen Atlas Peak Edition – 3 Row SUV – AWD – Pure Gray. Brand new 2025 VW Atlas Peak Edition with panoramic roof, Apple CarPlay, Android Auto, premium sound, parking assistance with backup camera, and ambient lighting. Financing & Leasing available.",
       "year": 2025,
       "features": [
-        "Exterior & Interior:* ✅ *Pure Gray Exterior* with *Black Leatherette Interior + Orange Stitching*   ✅ *Panoramic Sunroof*   ✅ *Ventilated Front Seats* + *Heated Rear Seats* + *Heated Steering Wheel*   ✅ *Ambient Lighting*    *Tech & Safety:* ✅ *Apple CarPlay + Android Auto*   ✅ *Premium Sound System*   ✅ *Parking Assistance with Backup Camera*    *Performance:* ✅ *2.0L Turbo Engine*   ✅ *Off-Road Ready* with All-Season Tires + Driving Mode Selection   ✅ *Spacious 3-Row SUV* - Perfect for family, road trips, or daily driving"
+        "2.0L Turbo + 8-speed Automatic 4MOTION AWD, 3 rows of seats (7 passengers), Ventilated front seats, heated rear seats, heated steering wheel, Pure Gray exterior with Black leatherette interior & orange stitching, Off-road ready."
       ],
-      "drivetrain": "FWD"
+      "drivetrain": "AWD"
     }
   ]
 }
