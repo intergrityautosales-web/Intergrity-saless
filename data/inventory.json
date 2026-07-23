@@ -75,6 +75,24 @@
         "Eco-Friendly Electric* - Zero emissions ✅ *Fast Charging + Easy Parking Anywhere* ✅ *New Tires* ✅ *Big Touchscreen + Backup Camera* ✅ *Perfect for School Runs, Groceries & Daily Driving*"
       ],
       "drivetrain": "FWD"
+    },
+    {
+      "trim": "Peak Edition  ",
+      "transmission": "Automatic",
+      "downPayment": 500,
+      "price": 8000,
+      "model": "Atlas",
+      "mileage": 12450,
+      "make": "Volkswagen  ",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "id": "VW-ATLAS-2025-PEAK-AWD-01",
+      "description": "The *2025 VW Atlas Peak Edition* is Volkswagen’s boldest 3-row SUV. Built for families who want space, for adventurers who want capability, and for drivers who want premium tech without the luxury price tag.\n\nFinished in *Pure Gray* with *Black leatherette interior and signature orange stitching*, this Atlas stands out on the road and off it. The *Peak Edition* adds rugged styling, all-season tires, and drive modes so you’re ready for city streets, highway trips, or weekend trails.\n\nInside you get *room for 7 passengers* across 3 rows. Everyone rides in comfort with *ventilated front seats, heated rear seats, and a heated steering wheel*. The *panoramic sunroof* and *ambient lighting* make night drives feel premium.\n\nTech is all there: *Wireless Apple CarPlay + Android Auto, Premium Sound System, Digital Cockpit, and Parking Assistance with Backup Camera*. Safety is covered too with VW’s driver assist features.\n\nUnder the hood: a *2.0L Turbo engine paired with an 8-Speed Automatic and 4MOTION AWD*. That means confident power, smooth shifts, and grip in rain, snow, or dirt. It’s the perfect balance of efficiency for daily driving and toughness for adventure.\n\n*Why this Atlas?*\n1.  *3-Row Space* - Car seats, sports gear, groceries... it fits it all\n2.  *AWD + Off-Road Modes* - Go anywhere, any season  \n3.  *Premium Comfort* - Panoramic roof, heated/ventilated seats, ambient lights\n4.  *Modern Tech* - Big screen, phone integration, premium audio",
+      "year": 2025,
+      "features": [
+        "Exterior & Interior:* ✅ *Pure Gray Exterior* with *Black Leatherette Interior + Orange Stitching*   ✅ *Panoramic Sunroof*   ✅ *Ventilated Front Seats* + *Heated Rear Seats* + *Heated Steering Wheel*   ✅ *Ambient Lighting*    *Tech & Safety:* ✅ *Apple CarPlay + Android Auto*   ✅ *Premium Sound System*   ✅ *Parking Assistance with Backup Camera*    *Performance:* ✅ *2.0L Turbo Engine*   ✅ *Off-Road Ready* with All-Season Tires + Driving Mode Selection   ✅ *Spacious 3-Row SUV* - Perfect for family, road trips, or daily driving"
+      ],
+      "drivetrain": "FWD"
     }
   ]
 }
