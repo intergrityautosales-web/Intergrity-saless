@@ -18,6 +18,25 @@
         "Key Features: ✅ HSE Fully Loaded Package ✅ AWD - All Wheel Drive- snow, rain, dirt = no problem ✅ Premium White Leather Interior - clean & classy ✅ Panoramic Sunroof ✅ Brand New Tires ✅ Backup Camera ✅ Heated Seats ✅ *Folding Rear Seats* - extra cargo space"
       ],
       "drivetrain": "FWD"
+    },
+    {
+      "trim": "HSE",
+      "transmission": "Automatic",
+      "downPayment": 600,
+      "price": 4000,
+      "model": " Range Rover Evoque Coupe  ",
+      "mileage": 135,
+      "make": "Land Rover   ",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "id": "RREV2013-COUPE-SILVER-01",
+      "image": "/images/uploads/img_20260723_230542_762.jpg",
+      "description": "This is NOT your typical SUV. It’s a luxury coupe that gets attention everywhere.  \n💎 Mint condition, drives like new.",
+      "year": 2013,
+      "features": [
+        "Features:* ✅ *One Owner* - Clean Title & Bill of Sale   ✅ *Panoramic Roof* + Black Leather Interior   ✅ *Premium Meridian Sound System*   ✅ *Navigation, Backup Camera, Parking Sensors*   ✅ *Heated Seats, Keyless Entry, Push Start*   ✅ *Perfect Silver on Black Combo* - looks incredible"
+      ],
+      "drivetrain": "AWD"
     }
   ]
 }
