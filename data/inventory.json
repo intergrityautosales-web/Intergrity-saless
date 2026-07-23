@@ -56,6 +56,25 @@
         "Features:* ✅ *Navigation System*   ✅ *Bluetooth* - Music + Hands-free calls   ✅ *Sunroof*   ✅ *Heated Seats*   ✅ *Great Acceleration & Fuel Efficiency*   ✅ *Tinted Windows*"
       ],
       "drivetrain": "FWD"
+    },
+    {
+      "trim": "Giga",
+      "transmission": "Automatic",
+      "downPayment": 500,
+      "price": 3000,
+      "model": "i3",
+      "mileage": 123,
+      "make": "BMW",
+      "fuelType": "Gasoline",
+      "status": "available",
+      "id": "BMW-I3-2015-ELECTRIC-01",
+      "image": "/images/uploads/img_20260723_234650_594.jpg",
+      "description": "Selling my 2015 BMW i3. Eco-friendly, easy to park, and perfect for daily driving.",
+      "year": 2015,
+      "features": [
+        "Eco-Friendly Electric* - Zero emissions ✅ *Fast Charging + Easy Parking Anywhere* ✅ *New Tires* ✅ *Big Touchscreen + Backup Camera* ✅ *Perfect for School Runs, Groceries & Daily Driving*"
+      ],
+      "drivetrain": "FWD"
     }
   ]
 }
