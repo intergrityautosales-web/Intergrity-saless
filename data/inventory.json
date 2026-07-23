@@ -1,52 +1,23 @@
 {
   "vehicles": [
     {
-      "transmission": "Manual",
-      "downPayment": 800,
-      "price": 4000,
-      "model": "Rover Range Rover Evoque HSE",
-      "mileage": 138,
+      "trim": "HSE",
+      "transmission": "Automatic",
+      "downPayment": 500,
+      "price": 3500,
+      "model": " Land Rover Range Rover Evoque",
+      "mileage": 135,
       "make": "Land Rover",
       "fuelType": "Gasoline",
       "status": "available",
-      "id": "2016 Land Rover Range Rover Evoque HSE",
-      "image": "/images/uploads/img_20260716_160915_876.jpg",
-      "description": "\n2016 Land Rover Range Rover Evoque HSE\n\nLuxury, safe, and comfortable SUV. Perfect for a family, daily driving, Costco trips, or weekend getaways. Runs and drives beautifully.\n\n",
+      "id": "EVOQUE2016-002",
+      "image": "/images/uploads/img_20260723_224928_739.jpg",
+      "description": "Why this Evoque?\nLuxury, safety, and comfort in one. Perfect for families, daily commuting, Costco runs, or weekend getaways. Runs and drives beautifully. Fully serviced.",
       "year": 2016,
       "features": [
-        "Like new. Fully serviced — nothing needs to be done.  ✅ Fully Loaded HSE Package ✅ AWD (All-Wheel Drive) ✅ Premium White Leather Interior ✅ Panoramic Roof ✅ Brand-new tires ✅ Backup Camera ✅ Heated Seats ✅ Folding Rear Seats"
+        "Key Features: ✅ HSE Fully Loaded Package ✅ AWD - All Wheel Drive- snow, rain, dirt = no problem ✅ Premium White Leather Interior - clean & classy ✅ Panoramic Sunroof ✅ Brand New Tires ✅ Backup Camera ✅ Heated Seats ✅ *Folding Rear Seats* - extra cargo space"
       ],
       "drivetrain": "FWD"
-    },
-    {
-      "trim": "LT",
-      "transmission": "Automatic",
-      "downPayment": 500,
-      "price": 3000,
-      "model": " Infiniti FX35 AWD",
-      "mileage": 135,
-      "make": " Infiniti",
-      "fuelType": "Gasoline",
-      "status": "available",
-      "id": "2012 Infiniti FX35 AWD",
-      "image": "/images/uploads/img_20260720_233008_329.jpg",
-      "description": "\n2012 Infiniti FX35 AWD – Fully Loaded\nRuns and drives like new. Fully serviced and needs absolutely nothing. Fast, reliable, comfortable, and perfect for a family or daily driving.",
-      "year": 2012,
-      "features": [
-        "Legendary 3.5L V6 • No Accidents • Clean Title • White / Black Leather • BOSE Sound • Bluetooth Music • 360° Camera • New Michelin Tires • Dash Cam • Xenon Headlights • Sunroof • Smart Key • AWD • Fold-Flat Rear Seats."
-      ],
-      "drivetrain": "AWD"
-    },
-    {
-      "trim": "17 wheels, sunroof, V-Tex leatherette seats,6.3 touchscreen dual zone climate ",
-      "transmission": "Automatic",
-      "downPayment": 350,
-      "price": 1500,
-      "model": "Passat",
-      "mileage": 138,
-      "make": "Volkswagen ",
-      "fuelType": "Gasoline",
-      "status": "available",
-      "id": "VW- PASSAT-2013-2.5-FWD-1500",
-      "image": "/images/uploads/img_20260720_235205_352.jpg",
-      "description": "2013\nSelling my VW Passat with the
+    }
+  ]
+}
